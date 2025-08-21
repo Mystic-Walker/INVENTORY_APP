@@ -34,3 +34,4 @@ if __name__ == "__main__":
     main()
 
 print("Hello dear!! How are you?")
+print("Hello dude!! How are you?")
