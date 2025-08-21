@@ -29,6 +29,7 @@ def main():
             break
         else:
             print("Invalid choice ...Try again")
+            print("Hello dear!! How are you?")
 
 if __name__ == "__main__":
     main()
